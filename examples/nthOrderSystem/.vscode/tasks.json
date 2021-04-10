@@ -9,7 +9,8 @@
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "..\\..\\phiSystemDynamic.c"
+                "..\\..\\core\\phiSystemDynamic.c",
+                "..\\..\\core\\phiMathLib.c"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"

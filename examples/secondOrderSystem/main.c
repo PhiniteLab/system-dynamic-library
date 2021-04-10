@@ -1,4 +1,4 @@
-#include "..\..\phiSystemDynamic.h"
+#include "..\..\include\phiSystemDynamicSetting.h"
 
 int main()
 {

@@ -2,6 +2,8 @@
     "files.associations": {
         "iterator": "c",
         "phisysdyn_ver0.h": "c",
-        "phisystemdynamic.h": "c"
+        "phisystemdynamic.h": "c",
+        "phisystemdynamicsetting.h": "c",
+        "phimathlib.h": "c"
     }
 }
