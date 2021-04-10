@@ -13,7 +13,7 @@ SYSTEM DYNAMICS LIBRARY
  - obtaining time response characteristics of the system
  - creating solver design to be implemented on embedded systems
   
-Which kinds of projects can utilize the basis of this codes?
+Which kinds of projects you can utilize the basis of this codes?
 
  - Engine design (physic motors)
  - VR/AR application
